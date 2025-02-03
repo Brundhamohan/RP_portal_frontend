@@ -8,12 +8,11 @@ This is a simple frontend project using HTML and CSS.
 - Responsive design with meta viewport tag
 
 ## Files
-- `index.html` - Main webpage file
-- `style.css` - Stylesheet for the page
+- `event.html` - Main webpage file
 
 ## Usage
 1. Clone the repository:
    ```sh
    git clone https://github.com/your-username/frontend-github.git
    ```
-2. Open `index.html` in your browser.
+2. Open `event.html` in your browser.
