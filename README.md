@@ -1,1 +1,1 @@
-# RP_portal_frontend
+# Event_page_frontend
